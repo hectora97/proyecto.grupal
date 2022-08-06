@@ -37,27 +37,8 @@ nav li:hover {
 
 nav a{
     text-decoration: none;
-    color: black;
+    color: #fff;
 }
 
 
-.grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 10px;
-}
 
-.cartas-maxi{
-    margin: 20px;
-    padding: 20px;
-    
-
-}
-article{
-    text-align: center;
-}
-
-.card-images{
-    height: 100px;
-
-}
