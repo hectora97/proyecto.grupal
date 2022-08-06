@@ -36,6 +36,17 @@ nav a{
     color: black;
 }
 
+
 .flex-container {
     display: flex;
 }
+
+.cartas-maxi{
+    margin: 10px;
+    padding: 10px;
+
+}
+article{
+    text-align: center;
+}
+
